@@ -20,7 +20,7 @@ global.logger = winston.createLogger({
 
 const app = express();
 
-const router = require("../routes/produto.route")
+const router = require("../routes/produto.route.js")
 
 app.use(express.json());
 app.use(router)

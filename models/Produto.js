@@ -1,5 +1,5 @@
 const Sequelize = require("sequelize");
-const db = require("../src/config/pg");
+const db = require("../src/config/pg.js");
 
 const Produto = db.sequelize.define('Produtos', {
     id: {
