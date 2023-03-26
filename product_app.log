@@ -1,0 +1,32 @@
+2023-03-25T20:27:25.491Z [ product_app ] error POST  - Codigo, descrção e preço são obrigatórios
+2023-03-25T20:32:01.179Z [ product_app ] error POST  - notNull Violation: Produtos.id cannot be null
+2023-03-25T20:32:47.852Z [ product_app ] info POST /produto - {"id":1,"codigo":"1","descricao":"mouse","preco":"50.89"}
+2023-03-25T20:55:37.986Z [ product_app ] info POST /produto - {"id":2,"codigo":"2","descricao":"teclado","preco":"100.89"}
+2023-03-25T20:56:54.334Z [ product_app ] info POST /produto - {"codigo":"2","descricao":"teclado","preco":100.89}
+2023-03-25T20:58:18.530Z [ product_app ] info POST /produto - {"codigo":"2","descricao":"teclado","preco":100.89}
+2023-03-25T20:59:57.474Z [ product_app ] info POST /produto - {"codigo":"2","descricao":"teclado","preco":100.89}
+2023-03-25T21:01:40.032Z [ product_app ] info POST /produto - {"codigo":"2","descricao":"teclado","preco":100.89}
+2023-03-25T21:02:11.625Z [ product_app ] info POST /produto - {"codigo":"2","descricao":"teclado","preco":100.89}
+2023-03-25T21:12:16.741Z [ product_app ] info POST /produto - {"codigo":"2","descricao":"teclado","preco":100.89}
+2023-03-25T21:12:42.750Z [ product_app ] info POST /produto - {"codigo":"2","descricao":"teclado","preco":100.89}
+2023-03-25T21:13:22.018Z [ product_app ] info POST /produto - {"codigo":"2","descricao":"teclado","preco":100.89}
+2023-03-25T21:13:53.621Z [ product_app ] info POST /produto - {"codigo":"2","descricao":"teclado","preco":100.89}
+2023-03-26T15:21:41.237Z [ product_app ] error POST  - Cannot read properties of undefined (reading 'codigo')
+2023-03-26T15:22:30.514Z [ product_app ] error POST  - Cannot read properties of undefined (reading 'codigo')
+2023-03-26T15:22:54.138Z [ product_app ] info POST /produto - {"id":1,"codigo":"1","descricao":"mouse","preco":"45.89"}
+2023-03-26T15:25:47.736Z [ product_app ] error POST  - Cannot read properties of undefined (reading 'codigo')
+2023-03-26T15:40:38.084Z [ product_app ] error POST  - Cannot read properties of null (reading 'codigo')
+2023-03-26T15:42:08.532Z [ product_app ] error POST  - Cannot read properties of null (reading 'codigo')
+2023-03-26T15:43:21.183Z [ product_app ] error POST  - Cannot read properties of null (reading 'codigo')
+2023-03-26T15:44:30.004Z [ product_app ] error POST  - Cannot read properties of null (reading 'codigo')
+2023-03-26T15:44:41.845Z [ product_app ] error POST  - Cannot read properties of null (reading 'codigo')
+2023-03-26T15:51:27.508Z [ product_app ] error POST  - codigo is not defined
+2023-03-26T15:52:01.037Z [ product_app ] error POST  - codigo is not defined
+2023-03-26T15:52:51.901Z [ product_app ] info POST /produto - {"id":2,"codigo":"2","descricao":"mouse","preco":"35.69"}
+2023-03-26T15:54:45.931Z [ product_app ] info POST /produto - {"id":3,"codigo":"3","descricao":"pendrive 64gb","preco":"80"}
+2023-03-26T15:55:34.483Z [ product_app ] info POST /produto - {"id":4,"codigo":"4","descricao":"pendrive 32gb","preco":"45"}
+2023-03-26T15:56:56.430Z [ product_app ] info POST /produto - {"id":5,"codigo":"5","descricao":"pendrive 8gb","preco":"28"}
+2023-03-26T16:01:46.726Z [ product_app ] info POST /produto - {"id":1,"codigo":"1","descricao":"pendrive 8gb","preco":28}
+2023-03-26T16:02:24.760Z [ product_app ] info POST /produto - {"id":2,"codigo":"2","descricao":"mouse","preco":50.99}
+2023-03-26T16:03:53.542Z [ product_app ] info POST /produto - {"id":3,"codigo":"3","descricao":"mouse","preco":55}
+2023-03-26T16:21:27.434Z [ product_app ] info POST /produto - {"id":4,"codigo":"4","descricao":"Monitor 23 polegadas","preco":1236.99}
