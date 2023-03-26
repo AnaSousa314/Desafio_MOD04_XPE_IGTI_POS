@@ -28,7 +28,7 @@ Desafio desenvolvido no módulo 04 da Pós-graduação em Desenvolvimento Full S
 ### Lista de atividades  
 [🐱‍🚀] 01 - Realizar a implementação da API Rest e adicioná-la a um contêiner baseado na imagem https://hub.docker.com/_/node.  
 
-[] 02 - A persistência dos dados deverá ser realizada utilizando uma base de dados postgresql. Nesse caso, poderá ser utilizada a instalação nativa da base ou ainda um contêiner baseado na imagem https://hub.docker.com/_/postgres.  
+[🐱‍🚀] 02 - A persistência dos dados deverá ser realizada utilizando uma base de dados postgresql. Nesse caso, poderá ser utilizada a instalação nativa da base ou ainda um contêiner baseado na imagem https://hub.docker.com/_/postgres.  
 
 [] 03 - Deverão ser implementados os testes de integração com supertest + jest (não é necessária a implementação de testes unitários).  
 
