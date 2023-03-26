@@ -11,5 +11,6 @@ router.get("/teste", (req,res)=>{
 router.post("/produto", ProdutoController.createProduto);
 router.put("/produto", ProdutoController.updateProduto);
 router.get("/produto", ProdutoController.listProdutos);
+router.delete("/produto/:codigo", ProdutoController.deleteProdutos);
 
 module.exports = router;

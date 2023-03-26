@@ -42,3 +42,7 @@
 2023-03-26T18:01:22.950Z [ product_app ] info PUT /produto - {"codigo":"4","descricao":"Monitor 20 polegadas","preco":999.99}
 2023-03-26T18:02:21.406Z [ product_app ] error PUT  - Codigo, descrição e preço são obrigatórios
 2023-03-26T18:06:44.172Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-26T18:17:13.486Z [ product_app ] error DELETE  - WHERE parameter "codigo" has invalid "undefined" value
+2023-03-26T18:17:48.373Z [ product_app ] info DELETE /produto - O produto informado não existe.
+2023-03-26T18:17:54.437Z [ product_app ] info DELETE /produto - {"id":4,"codigo":"4","descricao":"Monitor 20 polegadas","preco":999.99}
+2023-03-26T18:18:00.071Z [ product_app ] info GET /produto Lista todos os produtos
