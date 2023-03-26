@@ -46,3 +46,8 @@
 2023-03-26T18:17:48.373Z [ product_app ] info DELETE /produto - O produto informado não existe.
 2023-03-26T18:17:54.437Z [ product_app ] info DELETE /produto - {"id":4,"codigo":"4","descricao":"Monitor 20 polegadas","preco":999.99}
 2023-03-26T18:18:00.071Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-26T22:17:08.769Z [ product_app ] info POST /produto - {"id":6,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-26T22:18:05.896Z [ product_app ] info POST /produto - {"id":7,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-26T22:25:19.784Z [ product_app ] info POST /produto - {"id":8,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-26T22:25:19.894Z [ product_app ] info POST /produto - {"id":9,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-26T22:25:19.943Z [ product_app ] info PUT /produto - O produto informado não existe.
