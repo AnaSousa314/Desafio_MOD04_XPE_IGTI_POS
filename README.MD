@@ -17,7 +17,7 @@ Desafio desenvolvido no módulo 04 da Pós-graduação em Desenvolvimento Full S
 
 <br>
 
-[] - **GET** : retorna uma lista com todos os registros de produtos encontrados em uma resposta com status HTTP 200. ATENÇÃO: não é necessário realizar a leitura para um único registro.  
+[🐱‍🚀] - **GET** : retorna uma lista com todos os registros de produtos encontrados em uma resposta com status HTTP 200. ATENÇÃO: não é necessário realizar a leitura para um único registro.  
 
 <br>  
 

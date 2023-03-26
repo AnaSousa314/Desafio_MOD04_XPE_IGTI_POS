@@ -41,3 +41,4 @@
 2023-03-26T18:00:57.033Z [ product_app ] info PUT /produto - Produto não existe
 2023-03-26T18:01:22.950Z [ product_app ] info PUT /produto - {"codigo":"4","descricao":"Monitor 20 polegadas","preco":999.99}
 2023-03-26T18:02:21.406Z [ product_app ] error PUT  - Codigo, descrição e preço são obrigatórios
+2023-03-26T18:06:44.172Z [ product_app ] info GET /produto Lista todos os produtos

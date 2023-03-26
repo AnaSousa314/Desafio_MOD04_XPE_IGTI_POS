@@ -81,7 +81,19 @@ async function updateProduto(req, res, next) {
   }
 }
 
+async function listProdutos(req, res, next) {
+  try {
+    let listProducts = await Produto.findAll();
+
+    logger.info(`GET /produto Lista todos os produtos`);
+    res.status(200).send(listProducts)
+  } catch (error) {
+    next(error)
+  }
+}
+
 module.exports = {
   createProduto,
-  updateProduto
+  updateProduto,
+  listProdutos
 }
