@@ -13,7 +13,7 @@ Desafio desenvolvido no módulo 04 da Pós-graduação em Desenvolvimento Full S
 
 <br>  
 
-[] - **PUT** : os dados de descrição e preço deverão ser atualizados e retornar HTTP 200. Caso o payload da requisição seja inválido, um HTTP 400 deverá ser retornado, juntamente com uma mensagem informando o(s) erro(s) observado(s). Caso não seja encontrado um produto com o mesmo código, um HTTP 405 deverá ser retornado, juntamente com uma mensagem informando o(s) erro(s) observado(s).  
+[🐱‍🚀] - **PUT** : os dados de descrição e preço deverão ser atualizados e retornar HTTP 200. Caso o payload da requisição seja inválido, um HTTP 400 deverá ser retornado, juntamente com uma mensagem informando o(s) erro(s) observado(s). Caso não seja encontrado um produto com o mesmo código, um HTTP 405 deverá ser retornado, juntamente com uma mensagem informando o(s) erro(s) observado(s).  
 
 <br>
 
