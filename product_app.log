@@ -51,3 +51,132 @@
 2023-03-26T22:25:19.784Z [ product_app ] info POST /produto - {"id":8,"codigo":"1","descricao":"mouse","preco":50.99}
 2023-03-26T22:25:19.894Z [ product_app ] info POST /produto - {"id":9,"codigo":"1","descricao":"mouse","preco":50.99}
 2023-03-26T22:25:19.943Z [ product_app ] info PUT /produto - O produto informado não existe.
+2023-03-26T22:28:45.962Z [ product_app ] info POST /produto - {"id":10,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-26T22:28:46.113Z [ product_app ] info POST /produto - {"id":11,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-26T22:28:46.158Z [ product_app ] info PUT /produto - O produto informado não existe.
+2023-03-27T11:58:17.947Z [ product_app ] info POST /produto - {"id":1,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-27T11:59:03.489Z [ product_app ] info PUT /produto - {"codigo":"1","descricao":"mouse","preco":50.85}
+2023-03-27T11:59:09.375Z [ product_app ] info PUT /produto - O produto informado não existe.
+2023-03-27T11:59:22.628Z [ product_app ] info POST /produto - {"id":2,"codigo":"2","descricao":"teclado","preco":152.75}
+2023-03-27T12:00:09.583Z [ product_app ] info DELETE /produto - {"id":2,"codigo":"2","descricao":"teclado","preco":152.75}
+2023-03-27T12:00:42.262Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:00:53.386Z [ product_app ] info POST /produto - {"id":3,"codigo":"2","descricao":"teclado","preco":152.75}
+2023-03-27T12:00:57.039Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:09:42.301Z [ product_app ] info PUT /produto - {"codigo":"1","descricao":"teclado","preco":150.99}
+2023-03-27T12:14:33.214Z [ product_app ] info POST /produto - {"id":4,"codigo":"2","descricao":"teclado","preco":152.75}
+2023-03-27T12:15:58.935Z [ product_app ] info POST /produto - {"id":5,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-27T12:15:58.968Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:21:18.972Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:21:18.978Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:21:46.101Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:21:46.107Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:22:14.649Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:22:14.654Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:23:40.990Z [ product_app ] info POST /produto - {"id":6,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:23:40.998Z [ product_app ] info PUT /produto - O produto informado não existe.
+2023-03-27T12:23:41.005Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:25:06.255Z [ product_app ] info POST /produto - {"id":7,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:25:27.526Z [ product_app ] info POST /produto - {"id":8,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-27T12:25:27.556Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:25:27.561Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:29:25.461Z [ product_app ] info POST /produto - {"id":9,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-27T12:29:25.494Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:29:25.500Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:30:14.429Z [ product_app ] info POST /produto - {"id":10,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-27T12:30:14.461Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:30:14.467Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:30:14.474Z [ product_app ] info DELETE /produto - O produto informado não existe.
+2023-03-27T12:30:54.580Z [ product_app ] info POST /produto - {"id":11,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-27T12:30:54.613Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:30:54.618Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:30:54.624Z [ product_app ] info DELETE /produto - O produto informado não existe.
+2023-03-27T12:32:13.755Z [ product_app ] info POST /produto - {"id":12,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-27T12:32:13.788Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:32:13.794Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:32:13.800Z [ product_app ] info DELETE /produto - O produto informado não existe.
+2023-03-27T12:33:47.039Z [ product_app ] info POST /produto - {"id":13,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-27T12:33:47.073Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:33:47.080Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:33:47.089Z [ product_app ] info DELETE /produto - {"id":7,"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:33:52.953Z [ product_app ] info POST /produto - {"id":14,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-27T12:33:52.975Z [ product_app ] info POST /produto - {"id":15,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:33:52.992Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:33:52.997Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:33:53.006Z [ product_app ] info DELETE /produto - {"id":15,"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:34:51.185Z [ product_app ] info DELETE /produto - O produto informado não existe.
+2023-03-27T12:35:13.446Z [ product_app ] info POST /produto - {"id":16,"codigo":"3","descricao":"pendrive","preco":36}
+2023-03-27T12:36:24.347Z [ product_app ] info POST /produto - {"id":17,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:36:40.395Z [ product_app ] info POST /produto - {"id":18,"codigo":"1","descricao":"mouse","preco":50.99}
+2023-03-27T12:36:40.416Z [ product_app ] info POST /produto - {"id":19,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:36:40.429Z [ product_app ] info PUT /produto - O produto informado não existe.
+2023-03-27T12:36:40.435Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:36:40.443Z [ product_app ] info DELETE /produto - {"id":16,"codigo":"3","descricao":"pendrive","preco":36}
+2023-03-27T12:38:04.733Z [ product_app ] info POST /produto - {"id":20,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:38:20.746Z [ product_app ] info POST /produto - {"id":21,"codigo":"3","descricao":"pendrive","preco":36}
+2023-03-27T12:40:32.692Z [ product_app ] info POST /produto - {"id":22,"codigo":"1","descricao":"pendrive","preco":36}
+2023-03-27T12:41:25.426Z [ product_app ] info POST /produto - {"id":23,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:41:25.463Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:41:25.469Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:41:25.480Z [ product_app ] info DELETE /produto - {"id":22,"codigo":"1","descricao":"pendrive","preco":36}
+2023-03-27T12:41:41.908Z [ product_app ] info POST /produto - {"id":24,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:41:41.949Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:41:41.955Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:41:41.962Z [ product_app ] info DELETE /produto - O produto informado não existe.
+2023-03-27T12:43:12.626Z [ product_app ] info POST /produto - {"id":26,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:43:12.668Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:43:12.677Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:43:12.689Z [ product_app ] info DELETE /produto - {"id":25,"codigo":"1","descricao":"pendrive","preco":36}
+2023-03-27T12:43:48.870Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:44:37.685Z [ product_app ] info POST /produto - {"id":33,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:44:37.737Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:44:37.748Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:44:37.766Z [ product_app ] info DELETE /produto - {"id":31,"codigo":"1","descricao":"pendrive","preco":36}
+2023-03-27T12:44:50.159Z [ product_app ] info POST /produto - {"id":42,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:44:50.194Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:44:50.200Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:44:50.207Z [ product_app ] info DELETE /produto - O produto informado não existe.
+2023-03-27T12:45:16.530Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:45:57.144Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:46:15.828Z [ product_app ] info POST /produto - {"id":43,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:46:15.856Z [ product_app ] info POST /produto - {"id":44,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:46:15.870Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:46:15.876Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:46:15.884Z [ product_app ] info DELETE /produto - O produto informado não existe.
+2023-03-27T12:46:49.962Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:47:02.499Z [ product_app ] info POST /produto - {"id":46,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:47:02.530Z [ product_app ] info POST /produto - {"id":48,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:47:02.544Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:47:02.553Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:47:02.567Z [ product_app ] info DELETE /produto - {"id":45,"codigo":"1","descricao":"pendrive","preco":36}
+2023-03-27T12:47:43.372Z [ product_app ] info POST /produto - {"id":52,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:47:43.401Z [ product_app ] info POST /produto - {"id":53,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:47:43.410Z [ product_app ] info PUT /produto - O produto informado não existe.
+2023-03-27T12:47:43.416Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:47:43.422Z [ product_app ] info DELETE /produto - O produto informado não existe.
+2023-03-27T12:48:01.355Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:48:01.944Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:48:02.187Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:48:02.396Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:48:27.273Z [ product_app ] info POST /produto - {"id":54,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:48:27.297Z [ product_app ] info POST /produto - {"id":55,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:48:27.310Z [ product_app ] info PUT /produto - O produto informado não existe.
+2023-03-27T12:48:27.316Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:48:27.322Z [ product_app ] info DELETE /produto - O produto informado não existe.
+2023-03-27T12:48:57.767Z [ product_app ] info POST /produto - {"id":56,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:48:57.788Z [ product_app ] info POST /produto - {"id":57,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:48:57.801Z [ product_app ] info PUT /produto - O produto informado não existe.
+2023-03-27T12:48:57.807Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:48:57.814Z [ product_app ] info DELETE /produto - O produto informado não existe.
+2023-03-27T12:49:57.373Z [ product_app ] info POST /produto - {"id":59,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:49:57.397Z [ product_app ] info POST /produto - {"id":61,"codigo":"2","descricao":"teclado","preco":150.99}
+2023-03-27T12:49:57.414Z [ product_app ] info PUT /produto - O produto informado não existe.
+2023-03-27T12:49:57.424Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:49:57.439Z [ product_app ] info DELETE /produto - {"id":64,"codigo":"1","descricao":"pendrive","preco":36}
+2023-03-27T12:50:47.350Z [ product_app ] info POST /produto - {"id":67,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:50:47.396Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:50:47.409Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:50:47.425Z [ product_app ] info DELETE /produto - {"id":74,"codigo":"1","descricao":"pendrive","preco":36}
+2023-03-27T12:50:56.168Z [ product_app ] info POST /produto - {"id":78,"codigo":"3","descricao":"mouse","preco":50.99}
+2023-03-27T12:50:56.212Z [ product_app ] info PUT /produto - {"codigo":"2","descricao":"camera","preco":1500}
+2023-03-27T12:50:56.226Z [ product_app ] info GET /produto Lista todos os produtos
+2023-03-27T12:50:56.246Z [ product_app ] info DELETE /produto - {"id":85,"codigo":"1","descricao":"pendrive","preco":36}
